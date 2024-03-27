@@ -4,7 +4,7 @@ Query SQL yang saya buat.
 
 ## Tentang Proyek
 
-Project tersebut adalah Project Based Internship. Membuat Visualiasi dari data dan membuat hasil analisa, sumber data yang digunakan adalah 4 file csv.
+Project tersebut adalah Project Based Internship. Membuat Visualiasi dari data dan membuat hasil analisa, sumber data yang digunakan adalah 4 file csv. 
 
 
 ## Instalasi
