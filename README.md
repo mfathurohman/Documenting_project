@@ -8,7 +8,7 @@ Proyek ini adalah sebuah analisis data yang dilakukan menggunakan SQL dan visual
 
 ## Struktur Repositori
 
-- `queries.sql`: Berisi query SQL yang digunakan dalam analisis data.
+- `QueryBQ_KF_Analytics.sql`: Berisi query SQL yang digunakan dalam analisis data.
 - `visualizations/`: Direktori yang berisi visualisasi data dalam format gambar atau notebook.
 
 ## Cara Menggunakan
