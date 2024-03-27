@@ -25,16 +25,14 @@ Jelaskan struktur direktori proyek Anda dan apa yang terdapat di dalamnya. Ini m
 
 ## Kontribusi
 
-Jika Anda mengundang kontribusi dari komunitas, jelaskan cara terbaik untuk berkontribusi pada proyek Anda.
-
-
-https://lookerstudio.google.com/reporting/d54f0b51-13ea-4a6d-9c3b-0cfab354a12d
+Jika Anda mengundang kontribusi dari komunitas, jelaskan cara terbaik
 
 
 ## Catatan
 
 Tambahkan catatan penting, jika ada, seperti bug yang diketahui, batasan, atau pertimbangan penting lainnya.
 
+[![Query Pict](https://github.com/mfathurohman/Documenting_project/assets/134922083/62da83d5-6498-4d9c-ad88-c1ee9b9781f0)]
 (https://github.com/mfathurohman/Documenting_project/blob/6829690e24b7f8c0751c9b8c59bc4e27a51cdb0e/QueryBQ_KF_Analytics.sql)
 
 
