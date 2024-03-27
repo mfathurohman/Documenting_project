@@ -26,8 +26,7 @@ Jika Anda mengundang kontribusi dari komunitas, jelaskan cara terbaik untuk berk
 ## Catatan
 
 Tambahkan catatan penting, jika ada, seperti bug yang diketahui, batasan, atau pertimbangan penting lainnya.
-
-WITH PresentaseGrossLaba AS (
+[Uploading QueryWITH PresentaseGrossLaba AS (
   SELECT DISTINCT
     price,
     product_id,
@@ -38,7 +37,7 @@ WITH PresentaseGrossLaba AS (
       WHEN price BETWEEN 300000 AND 500000 THEN 0.25
       WHEN price > 500000 THEN 0.3
     END AS persentase_gross_laba
-  FROM `27042000.kf_final_transaction`
+  FROM `kimia_farma.kf_final_transaction`
 )
 
 SELECT DISTINCT
@@ -61,12 +60,12 @@ SELECT DISTINCT
 FROM 
   PresentaseGrossLaba AS PGL
 JOIN 
-  `27042000.kf_final_transaction` AS FT ON PGL.product_id = FT.product_id
+  `kimia_farma.kf_final_transaction` AS FT ON PGL.product_id = FT.product_id
 JOIN 
-  `27042000.kf_kantor_cabang` AS KC ON FT.branch_id = KC.branch_id
+  `kimia_farma.kf_kantor_cabang` AS KC ON FT.branch_id = KC.branch_id
 JOIN 
-  `27042000.kf_product` AS P ON PGL.product_id = P.product_id
-  
+  `kimia_farma.kf_product` AS P ON PGL.product_id = P.product_idBQ_KF_Analytics.sql…]()
+
 
 ## Lisensi
 
