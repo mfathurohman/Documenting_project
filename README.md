@@ -19,7 +19,7 @@ Berikan petunjuk tentang cara menggunakan proyek Anda. Ini bisa berupa langkah-l
 
 Jelaskan struktur direktori proyek Anda dan apa yang terdapat di dalamnya. Ini membantu orang lain untuk memahami bagaimana proyek Anda diorganisasi.
 
-![2024-03-27 (1)](https://lookerstudio.google.com/reporting/d54f0b51-13ea-4a6d-9c3b-0cfab354a12d){:target="_blank"}
+![2024-03-27 (1)](https://github.com/mfathurohman/Documenting_project/assets/134922083/80800f32-68e2-4b83-9cc0-4dbbfc3ccb2b){:target="_blank"}
 
 
 ## Kontribusi
