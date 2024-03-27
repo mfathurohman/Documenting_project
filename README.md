@@ -19,7 +19,7 @@ Berikan petunjuk tentang cara menggunakan proyek Anda. Ini bisa berupa langkah-l
 
 Jelaskan struktur direktori proyek Anda dan apa yang terdapat di dalamnya. Ini membantu orang lain untuk memahami bagaimana proyek Anda diorganisasi.
 
-![yeji-itzy-kill-my-doubt-concept-4-4k-wallpaper-uhdpaper com-227@1@l](https://github.com/mfathurohman/Documenting_project/assets/134922083/0cc72c59-c933-417a-93f1-47e50810d429)
+![2024-03-27 (1)](https://github.com/mfathurohman/Documenting_project/assets/134922083/5e273523-bd96-4342-ae75-055ca76df64a)
 
 
 ## Kontribusi
