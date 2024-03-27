@@ -26,7 +26,8 @@ Jika Anda mengundang kontribusi dari komunitas, jelaskan cara terbaik untuk berk
 ## Catatan
 
 Tambahkan catatan penting, jika ada, seperti bug yang diketahui, batasan, atau pertimbangan penting lainnya.
-[Uploading QueryWITH PresentaseGrossLaba AS (
+
+WITH PresentaseGrossLaba AS (
   SELECT DISTINCT
     price,
     product_id,
@@ -64,7 +65,7 @@ JOIN
 JOIN 
   `kimia_farma.kf_kantor_cabang` AS KC ON FT.branch_id = KC.branch_id
 JOIN 
-  `kimia_farma.kf_product` AS P ON PGL.product_id = P.product_idBQ_KF_Analytics.sql…]()
+  `kimia_farma.kf_product` AS P ON PGL.product_id = P.product_id
 
 
 ## Lisensi
