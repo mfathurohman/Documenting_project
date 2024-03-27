@@ -5,7 +5,7 @@ Query SQL yang saya buat.
 ## Tentang Proyek
 
 Project tersebut adalah Project Based Internship. Membuat Visualiasi dari data dan membuat hasil analisa, sumber data yang digunakan adalah 4 file csv.
-[query.txt](https://github.com/mfathurohman/Documenting_project/files/14771293/query.txt)
+
 
 ## Instalasi
 
@@ -26,6 +26,9 @@ Jika Anda mengundang kontribusi dari komunitas, jelaskan cara terbaik untuk berk
 ## Catatan
 
 Tambahkan catatan penting, jika ada, seperti bug yang diketahui, batasan, atau pertimbangan penting lainnya.
+[Uploading q
+uery.sql…]()
+
 
 ## Lisensi
 
