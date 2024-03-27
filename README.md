@@ -19,7 +19,7 @@ Berikan petunjuk tentang cara menggunakan proyek Anda. Ini bisa berupa langkah-l
 
 Jelaskan struktur direktori proyek Anda dan apa yang terdapat di dalamnya. Ini membantu orang lain untuk memahami bagaimana proyek Anda diorganisasi.
 
-![Vizz](https://github.com/mfathurohman/Documenting_project/assets/134922083/75b66928-4e08-4e49-8544-015a38effb25](https://lookerstudio.google.com/reporting/d54f0b51-13ea-4a6d-9c3b-0cfab354a12d)
+![Vizz](https://github.com/mfathurohman/Documenting_project/assets/134922083/2ae88af4-c14c-4deb-9f00-99b4f1786918)](https://lookerstudio.google.com/reporting/d54f0b51-13ea-4a6d-9c3b-0cfab354a12d)
 
 
 
