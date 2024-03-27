@@ -27,7 +27,7 @@ Jika Anda mengundang kontribusi dari komunitas, jelaskan cara terbaik untuk berk
 
 Tambahkan catatan penting, jika ada, seperti bug yang diketahui, batasan, atau pertimbangan penting lainnya.
 
-WITH PresentaseGrossLaba AS (
+[WITH PresentaseGrossLaba AS (
   SELECT DISTINCT
     price,
     product_id,
@@ -65,7 +65,7 @@ JOIN
 JOIN 
   `kimia_farma.kf_kantor_cabang` AS KC ON FT.branch_id = KC.branch_id
 JOIN 
-  `kimia_farma.kf_product` AS P ON PGL.product_id = P.product_id
+  `kimia_farma.kf_product` AS P ON PGL.product_id = P.product_id](https://github.com/mfathurohman/Documenting_project/blob/6829690e24b7f8c0751c9b8c59bc4e27a51cdb0e/QueryBQ_KF_Analytics.sql)
 
 
 ## Lisensi
