@@ -23,6 +23,10 @@ Jelaskan struktur direktori proyek Anda dan apa yang terdapat di dalamnya. Ini m
 
 Jika Anda mengundang kontribusi dari komunitas, jelaskan cara terbaik untuk berkontribusi pada proyek Anda.
 
+
+[KF_Analytics_Dashboard (1).pdf](https://github.com/mfathurohman/Documenting_project/files/14771544/KF_Analytics_Dashboard.1.pdf)
+
+
 ## Catatan
 
 Tambahkan catatan penting, jika ada, seperti bug yang diketahui, batasan, atau pertimbangan penting lainnya.
