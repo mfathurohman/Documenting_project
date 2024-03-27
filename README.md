@@ -1,50 +1,27 @@
-# Syntax Bigquery Kimia Farma 
+# Proyek Data Analisis
 
-Query SQL yang saya buat.
+Proyek ini adalah sebuah analisis data yang dilakukan menggunakan SQL dan visualisasi data untuk [nama_proyek].
 
-## Tentang Proyek
+## Deskripsi Proyek
 
-Project tersebut adalah Project Based Internship. Membuat Visualiasi dari data dan membuat hasil analisa, sumber data yang digunakan adalah 4 file csv. 
+[Deskripsi singkat tentang proyek Anda dan apa yang ingin Anda capai dengan analisis data.]
 
+## Struktur Repositori
 
-## Instalasi
+- `queries.sql`: Berisi query SQL yang digunakan dalam analisis data.
+- `visualizations/`: Direktori yang berisi visualisasi data dalam format gambar atau notebook.
 
-Jelaskan langkah-langkah yang diperlukan untuk menginstal atau menyiapkan lingkungan kerja Anda. Ini dapat mencakup dependensi, perangkat lunak, atau konfigurasi yang diperlukan.
+## Cara Menggunakan
 
-## Penggunaan
+1. **Menggunakan Query SQL**: Anda dapat mengeksekusi query SQL di database Anda dan menggunakan hasilnya untuk analisis lebih lanjut.
+2. **Visualisasi Data**: Anda dapat melihat visualisasi data yang telah dibuat dalam direktori `visualizations/`.
 
-Berikan petunjuk tentang cara menggunakan proyek Anda. Ini bisa berupa langkah-langkah untuk menjalankan skrip, memanggil fungsi, atau menggunakan antarmuka pengguna.
+## Query SQL
 
-## Struktur Proyek
-
-Jelaskan struktur direktori proyek Anda dan apa yang terdapat di dalamnya. Ini membantu orang lain untuk memahami bagaimana proyek Anda diorganisasi.
-
-[![Vizz](https://github.com/mfathurohman/Documenting_project/assets/134922083/2ae88af4-c14c-4deb-9f00-99b4f1786918)](https://lookerstudio.google.com/reporting/d54f0b51-13ea-4a6d-9c3b-0cfab354a12d)
-
-
-
-## Kontribusi
-
-Jika Anda mengundang kontribusi dari komunitas, jelaskan cara terbaik
-
-
-## Catatan
-
-Tambahkan catatan penting, jika ada, seperti bug yang diketahui, batasan, atau pertimbangan penting lainnya.
-
+Berikut adalah contoh query SQL yang digunakan dalam proyek ini,klik gambar untuk membuka file Querynya:
 [![Query Pict](https://github.com/mfathurohman/Documenting_project/assets/134922083/62da83d5-6498-4d9c-ad88-c1ee9b9781f0)](https://github.com/mfathurohman/Documenting_project/blob/6829690e24b7f8c0751c9b8c59bc4e27a51cdb0e/QueryBQ_KF_Analytics.sql)
 
 
-## Lisensi
 
-Tambahkan informasi tentang lisensi proyek Anda. Ini penting untuk memberi tahu orang lain tentang cara mereka dapat menggunakan dan berbagi kembali proyek Anda.
-
-## Kontak
-
-Jika ada pertanyaan atau umpan balik, berikan informasi kontak agar orang lain dapat menghubungi Anda.
-
-## Terima Kasih
-
-Terakhir, sertakan ucapan terima kasih kepada siapa pun yang telah berkontribusi pada proyek Anda atau memberikan dukungan.
 
 
