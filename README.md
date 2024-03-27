@@ -12,7 +12,13 @@ Proyek ini adalah sebuah analisis data yang dilakukan menggunakan SQL dan visual
 5. Dan untuk mengetahui Total Profit Masing-masing Provinsi di indonesia.]
 
 ## Struktur Repositori
-- '' : Berisi dataset untuk mengerjakan project Analisa Data yang diberikan oleh Kimia Farma.
+- Berisi dataset untuk mengerjakan project Analisa Data yang diberikan oleh Kimia Farma.<br>
+  kf_final_transaction.csv [link](https://drive.google.com/file/d/1iDOBdKZ4-kkLhpklQWWrsFvACtI7MCz3/view?usp=sharing).<br>
+  kf_inventory.csv [link](https://drive.google.com/file/d/1ihtG2t0V1AO0IAGkGwQaqtba6AxDEKDI/view?usp=sharing).<br>
+  kf_kantor_cabang.csv [link](https://drive.google.com/file/d/1vzaasqIeXqqe_jI99dNLaa8nxnoe9OWW/view?usp=sharing).<br>
+  kf_product.csv[link](https://drive.google.com/file/d/1739wO7BwtVStHCA4Dcj9xGhlc_blBNbT/view?usp=sharing).<br>
+
+
 - `QueryBQ_KF_Analytics.sql`: Berisi query SQL yang digunakan dalam analisis data.
 - `visualizations/`: Direktori yang berisi visualisasi data dalam format gambar atau notebook.
 
