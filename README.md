@@ -1,22 +1,28 @@
 # Big Data Analytics Kimia Farma x Rakamin Academy Batch Maret 2024
-SQL Tool: Google BigQuery - [Lihat Script SQL](https://github.com/mfathurohman/Documenting_project/blob/6829690e24b7f8c0751c9b8c59bc4e27a51cdb0e/QueryBQ_KF_Analytics.sql)<br>
+## Struktur Repositori
+- `QBigQuery_KF_project_analytics.sql`: Contains SQL queries used in data analysis.
+- `KF_Analytics_Dashboard (1).pdf`: Contains data visualizations in the form of links to Looker Studio.
+-  LICENSE : License of my repository
+  
+SQL Tool: Google BigQuery - [Lihat Script SQL](https://github.com/mfathurohman/Kimia-Farma-PBI/blob/main/QBigQuery_KF_project_analytics.sql)<br>
 Visualization Tool: Google Looker Studio - [Lihat Dashboard](https://lookerstudio.google.com/reporting/d54f0b51-13ea-4a6d-9c3b-0cfab354a12d)<br>
 Sumber Dataset: [PBI Kimia Farma x Rakamin Academy](https://www.rakamin.com/virtual-internship-experience/kimiafarma-big-data-analytics-virtual-internship-program)
 
-## Program Introduction
-Project Based Internship (PBI) adalah sebuah program magang virtual dari Rakamin Academy yang berkolaborasi dengan beberapa perusahaan yang bertujuan menggali potensi dan menambah pengalaman bagi peserta PBI. Dalam program ini, saya berperan sebagai Big Data Analytics di Kimia Farma yang menganalisis dan melaporkan data mengenai Performance Analytics Kimia Farma di Tahun 2020 - 2023.
+## Introduction
+
+Project Based Internship (PBI) is a virtual internship program by Rakamin Academy in collaboration with several companies aimed at exploring potential and enhancing experience for PBI participants. In this program, I serve as a Big Data Analytics at Kimia Farma, analyzing and reporting data on Kimia Farma's Performance Analytics from 2020 to 2023.
 
 #### Challenge
 
-- Membuat tabel analisa<br>
-- Membuat visualisas/dashboard Performance Analytics Kimia Farma di Tahun 2020 - 2023, dengan tujuan sebagai berikut: <br>
-1. Melihat perbandingan Pendapatan Kimia Farma dari tahun ke tahun
-2. Mengetahui Top 10 Total transaksi cabang provinsi
-3. Mengetahui Top 10 Nett sales cabang provinsi
-4. Mengetahui Top 5 Cabang dengan rating tertinggi, namun rating transaksi terendah
-5. Dan untuk mengetahui Total Profit Masing-masing Provinsi di indonesia.
+- Creating an analysis table from the dataset provided by Kimia Farma.
+- Creating visualizations/dashboard for Kimia Farma's Performance Analytics from 2020 to 2023, with the following objectives:
+1. To compare Kimia Farma's Revenue year over year.
+2. To identify the Top 10 Total transaction branches by province.
+3. To identify the Top 10 Nett sales branches by province.
+4. To identify the Top 5 Branches with the highest rating but lowest transaction rating.
+5. To determine the Total Profit of Each Province in Indonesia.
 
-  
+
 #### Dataset</n>
 
 - Final transaction <br>
@@ -24,14 +30,10 @@ Project Based Internship (PBI) adalah sebuah program magang virtual dari Rakamin
 - Kantor Cabang<br>
 - Product<br>
 
-## Struktur Repositori
-- `Query_kf_analytics.sql`: Berisi query SQL yang digunakan dalam analisis data.
-- `KF_Analytics_Dashboard (1).pdf`: Berisi visualisasi data dalam format gambar atau notebook.
+## Creating a Datamart
+Using 4 CSV format files from my dataset, I imported them into Google BigQuery for further processing
 
-## Membuat Datamart
-Menggunakan 4 file berformat csv dari dataset saya import ke google BigQuery untuk proses selanjutnya
-
-### Preview Dataset in BigQuery
+### Preview of Dataset in BigQuery
 - #### kf_Final_transaction
 ![Pict_kf_Final_Transaction](https://github.com/mfathurohman/Documenting_project/assets/134922083/9bc42b31-ac22-4ec8-ae34-a3e10eee1305)
 
@@ -47,22 +49,21 @@ Menggunakan 4 file berformat csv dari dataset saya import ke google BigQuery unt
 
 ### Query SQL
 
-Lalu membuat table analisa dengan menggunakan query seperti pada gambare dibawag,klik gambar untuk membuka file Querynya:
+Then create an analysis table using a query like the one shown in the image below, click the image to open the Query file:
 
-[![Query Pict](https://github.com/mfathurohman/Documenting_project/assets/134922083/62da83d5-6498-4d9c-ad88-c1ee9b9781f0)](https://github.com/mfathurohman/Documenting_project/blob/6829690e24b7f8c0751c9b8c59bc4e27a51cdb0e/QueryBQ_KF_Analytics.sql)
+[![Pict BigQuery](https://github.com/mfathurohman/Kimia-Farma-PBI/assets/134922083/3aaa9565-1028-4a19-b148-c1ad2598ad9d)](https://github.com/mfathurohman/Documenting_project/blob/6829690e24b7f8c0751c9b8c59bc4e27a51cdb0e/QueryBQ_KF_Analytics.sql)
 
-### Tabel Result
-Tabel dari query yang telah dibuat menjadi seperti ini, berikut Previewnya
+### Preview of Tabel Result
+The table generated from the query appears as follows, here is the preview
 ![hasil1](https://github.com/mfathurohman/Documenting_project/assets/134922083/9525791d-1b8f-48a2-aa57-57061f000702)![hasil 2](https://github.com/mfathurohman/Documenting_project/assets/134922083/c449977d-123e-475d-b608-8a54d36d5e3e)
-
 
 ## Visualisasi Data
 
-Visualisasi ini dibuat menggunakan Looker Studio ,Berikut adalah hasil visualisasi dari Datamart yang sudah dibuat dari dataset yang diberikan, klik gambar untuk melihat visualisasi di looker studio,
+Visualizations are created using Looker Studio. Here are the visualization results from the Datamart created from the provided dataset. Click the image to view the visualization in Looker Studio.
 
 [![Vizz](https://github.com/mfathurohman/Documenting_project/assets/134922083/2ae88af4-c14c-4deb-9f00-99b4f1786918)](https://lookerstudio.google.com/reporting/d54f0b51-13ea-4a6d-9c3b-0cfab354a12d)
 
-Untuk penjelasan mengenai Result dan persentasi telah saya muat kedalam video persentasi
+For the explanation about the results and presentation, I have loaded them into a presentation video.
 
 
 
