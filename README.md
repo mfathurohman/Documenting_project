@@ -71,7 +71,7 @@ In conclusion, this README provides an overview of this project, including insta
 Thank you for visiting our project!
 
 ---
-© 2022 Project Name. Released under the [LICENSE](https://github.com/mfathurohman/Kimia-Farma-PBI/blob/7149a8d38c1d4088be410b4f1a59253f8125f93e/LICENSE).
+© 2022 Kimia-Farma-PBI. Released under the [LICENSE](https://github.com/mfathurohman/Kimia-Farma-PBI/blob/7149a8d38c1d4088be410b4f1a59253f8125f93e/LICENSE).
 
 
 
