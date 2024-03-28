@@ -1,9 +1,9 @@
 # Big Data Analytics Kimia Farma x Rakamin Academy Batch Maret 2024
 ## Struktur Repositori
-- 'Google Data Analytics Specialization.pdf' : My Professional Data Analytics certification from Google
+- `Google Data Analytics Specialization.pdf` : My Professional Data Analytics certification from Google
 - `QBigQuery_KF_project_analytics.sql`: Contains SQL queries used in data analysis.
 - `KF_Analytics_Dashboard (1).pdf`: Contains data visualizations in the form of links to Looker Studio.
--  LICENSE : License of my repository
+-  `LICENSE` : License of my repository
   
 SQL Tool: Google BigQuery - [Lihat Script SQL](https://github.com/mfathurohman/Kimia-Farma-PBI/blob/main/QBigQuery_KF_project_analytics.sql)<br>
 Visualization Tool: Google Looker Studio - [Lihat Dashboard](https://lookerstudio.google.com/reporting/d54f0b51-13ea-4a6d-9c3b-0cfab354a12d)<br>
