@@ -1,5 +1,5 @@
-# Big Data Analytics Kimia Farma x Rakamin Academy Batch Maret 2024
-## Struktur Repositori
+# Big Data Analytics Kimia Farma x Rakamin Academy Batch March 2024
+## Repository Structure
 - &nbsp;&nbsp;&nbsp;&nbsp;`Google Data Analytics Specialization.pdf` : My Professional Data Analytics certification from Google.
 - &nbsp;&nbsp;&nbsp;&nbsp;`QBigQuery_KF_project_analytics.sql`: Contains SQL queries used in data analysis.
 - &nbsp;&nbsp;&nbsp;&nbsp;`KF_Analytics_Dashboard (1).pdf`: Contains data visualizations in the form of links to Looker Studio.
