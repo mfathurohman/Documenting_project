@@ -109,7 +109,7 @@ Lastly, there is the total profit in Indonesia from 2020 to 2023, amounting to 9
 
 In conclusion, this README provides an overview of this project, including installation steps, usage instructions, and relevant additional information. We hope the information presented here is beneficial to both users and contributors of this project.
 
-Thank you for visiting our project!
+Thank you for visiting my project!
 
 ---
 © 2022 Kimia-Farma-PBI. Released under the [LICENSE](https://github.com/mfathurohman/Kimia-Farma-PBI/blob/7149a8d38c1d4088be410b4f1a59253f8125f93e/LICENSE).
