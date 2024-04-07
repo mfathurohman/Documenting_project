@@ -91,7 +91,7 @@ Project Based Internship (PBI) is a virtual internship program by Rakamin Academ
 
 ### Summary
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![map viss](https://github.com/mfathurohman/Kimia-Farma-PBI/assets/134922083/bc9bc642-ce43-4cea-8c58-ef2cb2fa3ba9) ![summary vis](https://github.com/mfathurohman/Kimia-Farma-PBI/assets/134922083/3b10fa0d-5218-487b-8282-15b9cbeb0812)
+![map viss](https://github.com/mfathurohman/Kimia-Farma-PBI/assets/134922083/bc9bc642-ce43-4cea-8c58-ef2cb2fa3ba9) ![summary vis](https://github.com/mfathurohman/Kimia-Farma-PBI/assets/134922083/3b10fa0d-5218-487b-8282-15b9cbeb0812)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The data visualization above depicts a map of Indonesia showing the income of each province from 2020 to 2023, ranging from 572.9 million Rupiah to 26.9 billion Rupiah. The color intensity of blue shading each province on the map represents higher profits, with darker shades indicating higher profits. On the right-hand side, there is a summary displaying the total transactions in Indonesia from 2020 to 2023, amounting to 672,458 transactions. You can view the details of each province or year using the available filter feature.
 
@@ -101,7 +101,7 @@ Lastly, there is the total profit in Indonesia from 2020 to 2023, amounting to 9
 
 ### Link Datamart & Filter
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![filter vis](https://github.com/mfathurohman/Kimia-Farma-PBI/assets/134922083/9a1ea11a-ee54-4eca-a014-03e759efa3c6)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;!![filter vis](https://github.com/mfathurohman/Kimia-Farma-PBI/assets/134922083/9a1ea11a-ee54-4eca-a014-03e759efa3c6)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The 'Table Analytics' button will take you to a table page that was used to create the visualization. Meanwhile, the 'Province' button will help you find data visualizations regarding the province you desire. Similarly, the 'Date' button contains years, allowing you to select which years you want to display.
 
